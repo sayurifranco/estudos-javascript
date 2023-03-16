@@ -7,3 +7,9 @@ Incremento (++)	    Adiciona 1 a uma valor já definido	                    x++
 Decremento (--)	    Subtrai 1 de um valor já definido	                    y--
 Exponenciação (**)	Calcula a base elevada à potência	                 4**2 (16)
 */
+
+    let dezNumero = 10;
+    let dezTexto = "10";
+
+    console.log (dezNumero > 10);
+    console.log (dezNumero >= 10);

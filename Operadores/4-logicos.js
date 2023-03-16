@@ -7,4 +7,11 @@ OR: retorna true se uma das condições for verdadeira
 NOT: inverte o resultado obtido
 Diferente: retorna true ou false a partir de uma comparação
 
+E (&&)
+OU (||)
+Negação (!)
 */
+
+    console.log(2<3 && 3>2);
+    console.log(2<3 && 3<2);
+    console.log(2<3 || 3<2);
