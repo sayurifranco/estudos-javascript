@@ -22,3 +22,7 @@ const numero = 4;
 
     console.log (dezNumero==dezTexto); //compara só os valores --> TRUE
     console.log (dezNumero===dezTexto); //compara tipo de variáveis --> FALSE
+
+    dezTexto = 'Esse é o texto "10"';
+    console.log(dezTexto);
+    
