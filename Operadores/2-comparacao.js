@@ -16,3 +16,9 @@ const numero = 4;
  console.log(numero === texto); // true 
  
  */
+
+    let dezNumero = 10;
+    let dezTexto = "10";
+
+    console.log (dezNumero==dezTexto); //compara só os valores --> TRUE
+    console.log (dezNumero===dezTexto); //compara tipo de variáveis --> FALSE
