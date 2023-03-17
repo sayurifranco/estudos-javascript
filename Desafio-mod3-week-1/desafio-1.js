@@ -1,4 +1,4 @@
-/*FRETE GRATIS menos de 50k
+/*FRETE GRATIS menos de 50km
   bota custa 10 reais
   calça custa 30 reais  
   frete acima de 50km = 100 reais
