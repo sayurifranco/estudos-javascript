@@ -6,7 +6,7 @@ Se for maior, exiba o texto “Aprovado”, se for menor,
 exiba “Reprovado”.*/
 
 let nota1 = 5;
-let nota2 = 4;
+let nota2 = 9;
 
 let mediaNotas = (nota1 + nota2)/2;
 
@@ -17,4 +17,3 @@ if (mediaNotas >= 6){
 } else {
     console.log("Reprovado")
 }
-
