@@ -1,0 +1,22 @@
+{
+  "name": "atividade-mod3-week-2",
+  "version": "1.0.0",
+  "description": "aula m3w2 javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayurifranco/estudos-javascript.git"
+  },
+  "author": "LSSF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sayurifranco/estudos-javascript/issues"
+  },
+  "homepage": "https://github.com/sayurifranco/estudos-javascript#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
