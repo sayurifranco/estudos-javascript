@@ -25,4 +25,18 @@ const numero = 4;
 
     dezTexto = 'Esse é o texto "10"';
     console.log(dezTexto);
-    
+
+    let alturaMarcos = 100;
+    let alturaJoao = 100;
+    let alturaMaria = 120;
+
+console.log(alturaMarcos == alturaJoao);
+console.log(alturaMarcos == alturaMaria);
+console.log(alturaMarcos != alturaMaria);
+
+== // Comparar se é igual
+!= // Comparar se é diferente
+> // Comparar se o valor da esquerda é maior que o da direita
+< // Comparar se o valor da esquerda é menor que o da direita
+>= // Comparar se o valor da esquerda é maior ou igual que o da direita
+<= // Comparar se o valor da esquerda é menor ou igual que o da direita=
