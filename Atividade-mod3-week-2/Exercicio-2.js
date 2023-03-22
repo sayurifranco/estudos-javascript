@@ -13,4 +13,7 @@
  * 2 x 10 = 20
  * */ 
 
-
+for (let i = 1; i <= 10; i++) {
+    tabuada = 2 * i;
+    console.log(`2 x ${i} = ${tabuada}`)
+}
