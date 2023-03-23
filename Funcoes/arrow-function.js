@@ -9,7 +9,7 @@
     return `Meu nome é ${nome}`;
  }
 
- // Arrow Function
+//  // Arrow Function
  const hello = nome => `Meu nome é ${nome}`;
 
  // A definição de uma arrow function sempre começa com 
@@ -32,6 +32,20 @@ const alunos = [
     { id: 4, nome: 'Silvia Maria' }
    ]
   
-   const aluno = alunos.find(aluno => aluno.id === 3)
+//    const aluno = alunos.find(aluno => aluno.id === 3)
   
    console.log(aluno.nome) // Pedro dos Santos
+
+   // função seta   
+
+   function soma(numero_1, numero_2) {
+      const resultado = numero_1 + numero_2;
+      console.log("O resultado da soma é: ", resultado)
+   }
+
+  soma = (numero_1, numero_2) => {
+      const resultado = numero_1 + numero_2;
+      console.log("O resultado da soma é: ", resultado)
+   }
+
+   soma(2,3)
