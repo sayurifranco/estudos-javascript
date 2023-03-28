@@ -1,0 +1,12 @@
+{
+  "name": "programacao-assincrona",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
