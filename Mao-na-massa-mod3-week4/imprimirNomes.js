@@ -1,0 +1,2 @@
+const funcaoNome = require ('./funcaoNomes')
+
