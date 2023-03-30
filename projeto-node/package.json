@@ -4,6 +4,7 @@
   "description": "exemplo de projeto node",
   "main": "index.js",
   "scripts": {
+    // "start": "node exemploFaker.js" para rodar, npm start
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
