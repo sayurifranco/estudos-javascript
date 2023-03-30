@@ -1,0 +1,12 @@
+{
+  "name": "mao-na-massa-mod3-week4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exemplo.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,2 +1,5 @@
-const funcaoNome = require ('./funcaoNomes')
+// const funcaoNome = require ('./funcaoNomes')
 
+import funcaoNome from "./funcaoNomes.js"
+
+funcaoNome('Marcos');

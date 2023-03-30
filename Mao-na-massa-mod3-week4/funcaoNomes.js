@@ -2,4 +2,6 @@ function exibeNome(nome) {
     console.log(nome);
 };
 
-module.exports = exibeNome
+// module.exports = exibeNome
+
+export default exibeNome;
