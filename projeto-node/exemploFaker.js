@@ -8,6 +8,7 @@
 // e faker.color.human()
 
 const moduloFaker = require("@faker-js/faker")
+// require para importar + nome da pasta
 
 const valor = moduloFaker.faker.animal.type();
 
